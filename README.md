@@ -8,8 +8,6 @@ This repository contains a Python script for a comprehensive keylogger and monit
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Disclaimer](#disclaimer)
 - [Attribution](#attribution)
 - [Contact](#contact)
@@ -35,7 +33,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/cherifon/Keylogger.git
-  ```
+   ```
 2. **Navigate to the project directory:**
    ```bash
    cd Keylogger
@@ -49,6 +47,17 @@ To run this project locally, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
+
+## Usage
+
+1. **Run the script:**
+   ```bash
+   python Key-logger.py
+   ```
+2. **Ensure you have set up the email credentials:**
+   Replace '**************************' with your actual email address and password in the send_email function.
+3. **View the log files:**
+   The keystrokes, audio recordings, webcam snapshots, and other collected data will be saved and sent to the specified email.
 
 ## Disclaimer
 
