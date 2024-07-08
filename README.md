@@ -65,7 +65,7 @@ This project is for educational purposes only. Unauthorized use of this script t
 
 ## Attribution
 
-This code is highly inspired by the [Advanced Keylogger with Webcam and Microphone Spy](https://github.com/quitehacker/Advanced-Keylogger-with-Webcam-and-Microphone-Spy/blob/main) repository by quitehacker.
+This code is highly inspired by the [Advanced Keylogger with Webcam and Microphone Spy](https://github.com/quitehacker/Advanced-Keylogger-with-Webcam-and-Microphone-Spy/blob/main) repository by [quitehacker](https://github.com/quitehacker).
 
 ## Contact
 
